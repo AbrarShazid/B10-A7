@@ -1,12 +1,31 @@
-# React + Vite
+# 🏏 Dream 11 Cricket Team
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Assemble Your Ultimate Dream 11 Cricket Team**  
+Beyond Boundaries, Beyond Limits!
 
-Currently, two official plugins are available:
+## 🔗 Live Preview
+[Click here to visit the live site](#) (Add the link here)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
+- View available players and their details.
+- Select players for your dream team.
+- Remove selected players when needed.
+- Dynamic player selection tracking.
+- Clean and modern UI with responsive design.
 
-## Expanding the ESLint configuration
+## 🖼️ Screenshots
+### Homepage
+![Homepage](./main.jpg)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Selected Players Page
+![Selected Players](./main-2.jpg)
+
+## 🚀 Tech Stack
+- **Frontend**: HTML, CSS, JavaScript
+- **Styling**: Tailwind CSS
+- **Framework**: React.js (if applicable)
+
+## 📁 Setup Instructions
+1. Clone this repository:  
+   ```sh
+   git clone <repo-link>

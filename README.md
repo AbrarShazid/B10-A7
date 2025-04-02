@@ -15,10 +15,10 @@ Beyond Boundaries, Beyond Limits!
 
 ## 🖼️ Screenshots
 ### Homepage
-![Homepage](./main.jpg)
+![Homepage]("./src/Design and Preview/main.jpg")
 
 ### Selected Players Page
-![Selected Players](./main-2.jpg)
+![Selected Players]("./src/Design and Preview/main-2.jpg")
 
 ## 🚀 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript

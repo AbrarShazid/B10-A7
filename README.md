@@ -23,9 +23,5 @@ Beyond Boundaries, Beyond Limits!
 ## 🚀 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
 - **Styling**: Tailwind CSS
-- **Framework**: React.js (if applicable)
+- **Framework**: React.js 
 
-## 📁 Setup Instructions
-1. Clone this repository:  
-   ```sh
-   git clone <repo-link>

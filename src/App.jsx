@@ -3,6 +3,9 @@ import "./App.css";
 import FreeCredit from "./Components/Free_Credit/FreeCredit";
 import Header from "./Components/Header/Header";
 import Players from "./Components/Players/Players";
+import Footer from "./Components/Footer/Footer";
+
+
 
 const playersData= fetch("../Public/data.json").then(res=>res.json())
 
@@ -15,7 +18,7 @@ function App() {
   // function and state for free credit or coin ends here
 
 
-  
+
 
 
 
@@ -28,7 +31,12 @@ function App() {
         <FreeCredit addCoin={addCoin}></FreeCredit>
       </div>
  
-      <Players playersData={playersData}></Players>
+      <Players coins={coin} setCoin={setCoin}  playersData={playersData}></Players>
+
+      <Footer></Footer>
+
+ 
+      
     </>
   );
 }

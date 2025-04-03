@@ -7,10 +7,10 @@ import { IoFlagSharp } from "react-icons/io5";
 
 
 
-const PlayerAvail = ({playerData}) => {
+const PlayerAvail = ({playerData ,choosePlayer }) => {
 
 
-  const {name,country,role,image_url,price,batting_hand,bowling_hand}=playerData
+  const {id,name,country,role,image_url,price,batting_hand,bowling_hand}=playerData
 
 
   
@@ -58,8 +58,10 @@ const PlayerAvail = ({playerData}) => {
           </div>
 
           <div className='flex justify-between items-center'>
-            <h3 className='font-semibold'>Price:${price}</h3>
-            <button className='border border-gray-300 px-3 py-2 rounded-lg text-sm'>Choose Player </button>
+            <h3 className='font-semibold'>Price: ${price}</h3>
+            <button onClick={()=>choosePlayer(id)} className='border border-gray-300 px-3 py-2 rounded-lg text-sm hover:border-[rgba(19, 19, 19, 0.3)] hover:bg-gray-200'>Choose Player </button>
+            
+            
           </div>
 
       </div>

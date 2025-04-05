@@ -7,7 +7,7 @@ const Header = ({totalCoin}) => {
       {/* logo */}
       <div>
         
-        <img src="/assets/logo.png" alt="logo" />
+        <img src="/logo.png" alt="logo" />
       </div>
       {/* right side content of header  */}
       <div> 

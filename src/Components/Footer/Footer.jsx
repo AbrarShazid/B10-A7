@@ -8,7 +8,7 @@ const Footer = () => {
 
         
 
-        <img src="/assets/logo-footer.png" alt="Footer logo" />
+        <img src="/logo-footer.png" alt="Footer logo" />
 
 
         <div className='grid md:grid-cols-3 justify-items-start '> 

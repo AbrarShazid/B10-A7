@@ -5,12 +5,12 @@ const Free_Credit = ({addCoin}) => {
     <div  className='bg-black  h-[420px] mt-[2%] mx-[3%] rounded-xl relative flex justify-center items-center  '  >
 
 
-<img src="/assets/bg-shadow.png" className=' w-full h-full rounded-xl absolute pointer-events-none' alt="" />
+<img src="/bg-shadow.png" className=' w-full h-full rounded-xl absolute pointer-events-none' alt="" />
 
 <div className='text-white flex flex-col items-center  gap-5 '>
 
 
-    <img src="/assets/banner-main.png" className='w-52 min-h-44' alt="" />
+    <img src="/banner-main.png" className='w-52 min-h-44' alt="" />
     <h1 className='text-4xl font-bold'>Assemble Your Ultimate Dream 11 Cricket Team</h1>
     <h3 className='opacity-70 text-2xl'>Beyond Boundaries Beyond Limits</h3>
     <button  

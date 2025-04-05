@@ -7,7 +7,7 @@ Beyond Boundaries, Beyond Limits!
 Dream 11 Cricket Team is a web application that allows users to create their ultimate fantasy cricket team by selecting players from a list. Players are chosen based on available coins, and users can add or remove players. The app also includes dynamic coin management and interactive notifications to enhance the user experience.
 
 ## 🔗 Live Preview
-[Click here to visit the live site](#) ([Link: ](https://dream-11-cricket-team-b10-a7.netlify.app/))
+([Click here to visit the live site](https://dream-11-cricket-team-b10-a7.netlify.app/)) 
 
 ## 📌 Key Features
 - **Dynamic Coin Management**: Track your coins as you select or remove players from your team. Earn free credits and use them to buy players.

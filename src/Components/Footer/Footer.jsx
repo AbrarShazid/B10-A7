@@ -6,7 +6,10 @@ const Footer = () => {
 
       <div className='px-[3%] flex flex-col items-center gap-14 '>
 
-        <img className='h-32 w-32 object-cover' src="../../../Public/assets/logo-footer.png" alt="" />
+        
+
+        <img src="/assets/logo-footer.png" alt="Footer logo" />
+
 
         <div className='grid md:grid-cols-3 justify-items-start '> 
       {/* left   */}

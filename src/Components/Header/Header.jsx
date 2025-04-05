@@ -6,8 +6,8 @@ const Header = ({totalCoin}) => {
     <div className='flex items-center justify-between mt-[2%] mx-[3%]'>
       {/* logo */}
       <div>
-        <img src="../../../Public/assets/logo.png" alt="" />
         
+        <img src="/assets/logo.png" alt="logo" />
       </div>
       {/* right side content of header  */}
       <div> 
